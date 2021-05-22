@@ -1,4 +1,3 @@
-### Wellcome! 👋
 # Matheus Mendes
 
 founder ##@Volkz. 
