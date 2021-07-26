@@ -11,7 +11,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=matheusfmendes&bg_color=22272E&text_color=CDD9E5&count_private=true&show_icons=true&hide_border=true&include_all_commits=true"/> 
 </a>
 
-<img src="https://user-images.githubusercontent.com/50635097/119244230-b263fe80-bb44-11eb-9e1e-71116373fb04.png" width="40px"/><br/>I'm a back-end developer, moving towards fullstack
+<img src="https://user-images.githubusercontent.com/50635097/119244230-b263fe80-bb44-11eb-9e1e-71116373fb04.png" width="40px"/><br/>I'm a back-end developer, moving towards <strong>fullstack</strong>
 <br />
 <br />
 <br />
