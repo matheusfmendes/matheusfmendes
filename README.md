@@ -57,7 +57,6 @@
 
 ## 🌐 Contato
 
-📧 matheus121968@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-f-mendes/)  
 💻 [Portfólio](http://matheusfmendes.github.io/)  
 🐙 [GitHub](https://github.com/matheusfmendes)
