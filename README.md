@@ -3,7 +3,6 @@
 🎓 **Bacharel em Sistemas de Informação**  
 💼 Desenvolvedor **Fullstack** com conhecimento em múltiplas tecnologias e foco em soluções práticas, robustas e escaláveis  
 🚀 Embaixador da [DIO](https://web.dio.me) – plataforma referência em educação tech no Brasil  
-🌐 Certificado no bootcamp **Microsoft Azure Essentials**  
 📊 Aprofundamento em **Ciência de Dados** e **Machine Learning** com cursos de extensão universitários
 
 ---
