@@ -59,7 +59,6 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-f-mendes/)  
 💻 [Portfólio](http://matheusfmendes.github.io/)  
-🐙 [GitHub](https://github.com/matheusfmendes)
 
 ---
 
@@ -67,6 +66,7 @@
 
 
 <!--a href="http://matheusfmendes.github.io/">
+🐙 [GitHub](https://github.com/matheusfmendes)
 <img align="right" src="https://metrics.lecoq.io/matheusfmendes?base.metadata=0" />
 </a-->
 
