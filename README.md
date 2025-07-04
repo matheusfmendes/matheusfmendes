@@ -58,7 +58,7 @@
 ## 🌐 Contato
 
 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-f-mendes/)  
-💻 [Portfólio](http://matheusfmendes.github.io/)  
+<!--💻 [Portfólio](http://matheusfmendes.github.io/)  --!>
 
 ---
 
